@@ -33,3 +33,20 @@ canvas{
 #statusdiv{
   display: block;
 }
+
+/*PREVIEW CSS*/
+
+  #preview{
+    width: 100%;
+    height: 20%;
+    position: fixed;
+    bottom: 0;
+    background: white;
+  }
+  #preview img{
+    margin-top: 8px;
+    height: 80%;
+    float: left;
+    padding: 0%;
+    background: black;
+  }
